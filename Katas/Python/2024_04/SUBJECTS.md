@@ -7,3 +7,4 @@
 05. [Fake Binary](https://github.com/evilpotato04/codewars_practice/blob/main/Katas%2FPython%2F2024_04%2Fkata_20240416_01.py)
 06. [Function 1 - hello world](https://github.com/evilpotato04/codewars_practice/blob/main/Katas%2FPython%2F2024_04%2Fkata_20240417_01.py)
 07. [Sum of positive](https://github.com/evilpotato04/codewars_practice/blob/main/Katas%2FPython%2F2024_04%2Fkata_20240417_02.py)
+08. [Total amount of points](https://github.com/evilpotato04/codewars_practice/blob/main/Katas%2FPython%2F2024_04%2Fkata_20240418_01.py)
